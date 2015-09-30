@@ -1,0 +1,11 @@
+C:\Users\episl\Desktop>java myDriver
+Enter your first string : something
+Your string was : something
+The character at position 3 is: m
+Enter your second string : SoMeThInG
+Your string was : SoMeThInG
+The first three characters of the seconds string is : SoM
+Upper case test on first string : SOMETHING
+Lower case test on second string : something
+The strings are not equal.
+The valueOf 5 is: 5
